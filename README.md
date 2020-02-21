@@ -4,7 +4,7 @@ Hello stranger! You've arrived at my repository where I document my on-going pro
 
 ## Infrastructure
 
-I'm going to split this part in two sections, physical and virtual. I feel this will give a big picture on the high-level pieces and its underlying components.
+I'm going to split this part into two sections, physical and virtual. This will give you a clear picture on the high-level components and its underlying hardware.
 
 ### Physical
 
