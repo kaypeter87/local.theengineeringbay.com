@@ -1,6 +1,6 @@
 # Welcome to my Homelab!
 
-Hello stranger! You've arrived at my homelab repository where I document my on-going projects within my homelab. I hope you find my work interesting and leave with learning something. Let's get right into it!
+Hello stranger! You've arrived at my repository where I document my on-going projects within my homelab. I hope you find my work interesting and leave with learning something. Let's get right into it!
 
 ## Infrastructure
 
