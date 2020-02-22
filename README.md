@@ -12,4 +12,5 @@ I'm going to split this part into two sections, physical and virtual. This will 
 - Ubiquiti Edgerouter Lite 3
 - TP-Link Managed Switch
 - Netgear Nighthawk Wireless Router
+- 2 x TrippLite APCs
 - Still a WIP...
