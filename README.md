@@ -9,6 +9,8 @@ I'm going to split this part into two sections, physical and virtual. This will 
 ### Physical
 
 - Dell R710
+1. 2 x Intel Xeon E5530
+1. 6 x 32gb RAM
 - Ubiquiti Edgerouter Lite 3
 - TP-Link Managed Switch
 - Netgear Nighthawk Wireless Router
