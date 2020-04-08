@@ -19,3 +19,5 @@ I'm going to split this part into two sections, physical and virtual. This will 
 - 2 x TrippLite APCs
 - Synology 2-Bay 16 TB/ 20 TB Network Attached Storage (DS216play) 
 - Still a WIP...
+
+### Virtual
