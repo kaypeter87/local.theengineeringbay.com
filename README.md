@@ -10,7 +10,9 @@ I'm going to split this part into two sections, physical and virtual. This will 
 
 - Dell R710
   * 2 x Intel Xeon E5530
-  * 6 x 32gb RAM
+  * 12 x 16gb RAM
+  * 6 x 500gb SAS HD
+  * 2 x 250gb SATA HD
 - Ubiquiti Edgerouter Lite 3
 - TP-Link Managed Switch
 - Netgear Nighthawk Wireless Router
