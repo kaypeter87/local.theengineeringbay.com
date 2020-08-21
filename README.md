@@ -13,11 +13,11 @@ I'm going to split this part into two sections, physical and virtual. This will 
   * 12 x 16gb RAM
   * 6 x 500gb SAS HD
   * 2 x 250gb SATA HD
-- Ubiquiti Edgerouter Lite 3
+- PCEngine apu4d4 loaded with pfSense
 - TP-Link Managed Switch
-- Netgear Nighthawk Wireless Router
+- Unifi AP AC LR
 - 2 x TrippLite APCs
 - Synology 2-Bay 16 TB/ 20 TB Network Attached Storage (DS216play) 
-- Still a WIP...
+- Raspberry Pi 3 - BIND DNS server
 
 ### Virtual
