@@ -41,3 +41,7 @@ I'm going to split this part into two sections, physical and virtual. This will 
 - kubeworker01: Kubernetes worker node
 - kubeworker02: Kubernetes worker node
 - kubeworker03: Kubernetes worker node
+
+## Kubernetes Cluster
+
+//TODO: Add kubernetes infrastructure info here
