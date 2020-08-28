@@ -8,7 +8,7 @@ I'm going to split this part into two sections, physical and virtual. This will 
 
 ### Physical
 
-- Dell R710
+- Dell R710 loaded with Proxmox
   * 2 x Intel Xeon E5530
   * 12 x 16gb RAM
   * 6 x 500gb SAS HD
@@ -17,7 +17,27 @@ I'm going to split this part into two sections, physical and virtual. This will 
 - TP-Link Managed Switch
 - Unifi AP AC LR
 - 2 x TrippLite APCs
-- Synology 2-Bay 16 TB/ 20 TB Network Attached Storage (DS216play) 
-- Raspberry Pi 3 - BIND DNS server
+- Synology 2-Bay 16 TB/ 20 TB Network Attached Storage (DS216play)
+- Raspberry Pi 3 (ns1) - Primary BIND DNS server
 
 ### Virtual
+
+- heracles: OpenLDAP Server
+- ns2: Secondary BIND Server
+- artemis: Utility Server
+  * Nessus
+  * OpenVAS
+  * unifi
+- minio-arch: Minio Storage Server
+- plutus: Debian Misc Server
+- hermes: HAProxy Load Balancer
+- jellyfin: Jellyfin Media Server
+- cerebus: OpenVPN Client to IVPN
+- athena: CI/CD Server
+  * Ansible
+  * Terraform
+  * Gitlab CI agent
+- kubemaster01: Kubernetes master node
+- kubeworker01: Kubernetes worker node
+- kubeworker02: Kubernetes worker node
+- kubeworker03: Kubernetes worker node
