@@ -18,7 +18,7 @@ I'm going to split this part into two sections, physical and virtual. This will 
 - Unifi AP AC LR
 - 2 x TrippLite APCs
 - Synology 2-Bay 16 TB/ 20 TB Network Attached Storage (DS216play)
-- Raspberry Pi 3 (ns1) - Primary BIND DNS server
+- Raspberry Pi 3 (ns1) - Primary BIND Server
 
 ### Virtual
 
