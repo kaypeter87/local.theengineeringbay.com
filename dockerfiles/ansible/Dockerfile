@@ -5,7 +5,8 @@ RUN pacman -Syu --needed --noconfirm \
   base-devel \
   sudo \
   git \
-  ansible
+  ansible \
+  ansible-lint
 
 ARG user=makepkg
 RUN useradd -m $user \
