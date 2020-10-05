@@ -45,3 +45,8 @@ I'm going to split this part into two sections, physical and virtual. This will 
 ## Kubernetes Cluster
 
 //TODO: Add kubernetes infrastructure info here
+
+MetalLB Ingress Controller
+HashiCorp Vault
+Nextcloud
+Gitlab/Gitlab CI
