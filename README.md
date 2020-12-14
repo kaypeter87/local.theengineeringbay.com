@@ -13,11 +13,15 @@ I'm going to split this part into two sections, physical and virtual. This will 
   * 12 x 16gb RAM
   * 6 x 500gb SAS HD
   * 2 x 250gb SATA HD
+- Dell R710 loaded with Proxmox
+  * 2 x Intel Xeon E5530
+  * 12 x 16gb RAM
+  * 4 x 3TB SAS HD
 - PCEngine apu4d4 loaded with pfSense
 - TP-Link Managed Switch
 - Unifi AP AC LR
 - 2 x TrippLite APCs
-- Synology 2-Bay 16 TB/ 20 TB Network Attached Storage (DS216play)
+- Synology 2-Bay 16 TB / 20 TB Network Attached Storage (DS216play)
 - Raspberry Pi 3 (ns1) - Primary BIND Server
 
 ### Virtual
@@ -33,7 +37,7 @@ I'm going to split this part into two sections, physical and virtual. This will 
 - hermes: HAProxy Load Balancer
 - jellyfin: Jellyfin Media Server
 - cerebus: OpenVPN Client to IVPN
-- athena: CI/CD Server
+- athena: Configuration Management Server
   * Ansible
   * Terraform
   * Gitlab CI agent
@@ -46,7 +50,13 @@ I'm going to split this part into two sections, physical and virtual. This will 
 
 //TODO: Add kubernetes infrastructure info here
 
-MetalLB Ingress Controller
-HashiCorp Vault
-Nextcloud
-Gitlab/Gitlab CI
+- cert-manager
+- Gitlab/Gitlab CI
+- Grafana
+- Graylog
+- HashiCorp Vault
+- MetalLB Ingress Controller
+- Nextcloud
+- OpenEBS
+- Prometheus
+- Velero
